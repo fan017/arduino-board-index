@@ -31,7 +31,7 @@
             },
             {
               "packager": "arduino",
-              "version": "1.6.1-arduino",
+              "version": "1.8.2-arduino",
               "name": "bossac"
             },
             {
